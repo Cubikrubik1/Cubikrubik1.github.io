@@ -1,0 +1,83 @@
+body{
+	background: #1B1B1B;   
+
+}
+div{
+	width: 50%;
+	margin: 0 auto;
+
+}
+h1{
+color: #ADB2B5;
+
+}
+h2{
+	color: #ADB2B5;
+
+}
+h3{
+	color: white;
+	
+}
+h4{
+	color: #ADB2B5;
+	
+}
+.link{
+	color:  #ADB2B5;
+
+}
+.link1{
+	color:  white;
+
+}
+.text{
+	position: fixed;
+	top: ;
+	right: ;
+	bottom: 0 auto;
+	left: ;
+    width: 120px;
+
+}
+.text1{
+	position: fixed;
+	top: 40px;
+	right: ;
+	bottom: ;
+	left: ;
+	width: 120px;
+
+}
+.text2{
+	position: fixed;
+	top: 55px;
+	right: ;
+	bottom: ;
+	left: ;
+	width: 120px;
+
+}
+.text3{
+	position: fixed;
+	top: 70px;
+	right: ;
+	bottom: ;
+	left: ;
+	width: 120px;
+
+}
+.text4{
+	position: fixed;
+	top: 85px;
+	right: ;
+	bottom: ;
+	left: ;
+	width: 120px;
+
+}
+img{
+	width: 300px;
+	height: 300px;
+
+}
